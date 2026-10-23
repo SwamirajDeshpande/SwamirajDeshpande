@@ -120,6 +120,7 @@ I'm always interested in discussing technology, software engineering, startups, 
 
 📧 [swamiraj2007@gmail.com](mailto:swamiraj2007@gmail.com)
 💼 LinkedIn:www.linkedin.com/in/swamiraj-deshpande-24943b369 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swamiraj.py?dlrf=MXEyNGxlaXU0ZWhldg==/)
 <!--🌐 Portfolio: yourportfolio.com-->
 
 ---
