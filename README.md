@@ -125,6 +125,6 @@ Trustify is an ML-powered product verification system that identifies potentiall
 
 ### Thanks for visiting my profile!
 
-*"Code with purpose. Build with impact."*
+*"Code is not only written, It is engineered."*
 
 </div>
