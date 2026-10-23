@@ -116,12 +116,10 @@ Trustify is an ML-powered product verification system that identifies potentiall
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swamiraj-deshpande-24943b369/)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamiraj2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect to Swamiraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swamiraj-deshpande-24943b369/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact to Swamiraj-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamiraj2007@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow Swamiraj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 ---
 
