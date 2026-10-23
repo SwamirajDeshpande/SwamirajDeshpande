@@ -116,12 +116,12 @@ Trustify is an ML-powered product verification system that identifies potentiall
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing technology, software engineering, startups, and innovative ideas.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swamiraj-deshpande-24943b369/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamiraj2007@gmail.com)
 
-📧 [swamiraj2007@gmail.com](mailto:swamiraj2007@gmail.com)
-💼 LinkedIn:www.linkedin.com/in/swamiraj-deshpande-24943b369 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swamiraj.py?dlrf=MXEyNGxlaXU0ZWhldg==/)
-<!--🌐 Portfolio: yourportfolio.com-->
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 ---
 
