@@ -1,4 +1,4 @@
-# Hi there, I'm Swamiraj Deshpande 👋
+# Hey there!, I'm Swamiraj Deshpande 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=I+am+a+programmer+who+loves+coding+and+having+fun.)](https://git.io/typing-svg)
 <div >
 
