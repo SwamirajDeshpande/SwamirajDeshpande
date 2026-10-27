@@ -27,7 +27,7 @@ I'm a passionate Computer Science student specializing in **Artificial Intellige
 - 👯 Open to collaborating on **Open Source and AI/ML and Data Science Projects**
 - 💬 Ask me about **Python, ML, APIs, Computer Vision and Software Engineering**
 - ⚡ Fun fact: **I love turning innovative ideas into working applications!**
-- 🇩🇪 I have completed **B2 level in German Language from Goethe Institut Max Mueller Bhavan Pune**.
+- 🇩🇪 I have completed **B2 level in German Language & Literature from Goethe Institut Max Mueller Bhavan Pune**.
 
 ---
 
