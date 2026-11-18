@@ -11,7 +11,7 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SwamirajDeshpande&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SwamirajDeshpande&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
