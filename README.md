@@ -130,16 +130,6 @@ An ML-based product verification system that analyzes product details, pricing p
 </div>
 
 ---
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SwamirajDeshpande/SwamirajDeshpande/output/snake.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
----
 ## 📚 Currently Exploring
 
 * Artificial Intelligence & Machine Learning
