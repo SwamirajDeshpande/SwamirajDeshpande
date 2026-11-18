@@ -140,6 +140,15 @@ An ML-based product verification system that analyzes product details, pricing p
 </div>
 
 ---
+## 📚 Currently Exploring
+
+* Artificial Intelligence & Machine Learning
+* Data Science & Statistical Analysis
+* Computer Vision & Image Processing
+* Software Development & API Engineering
+* MLOps, DevOps & Automation
+  
+---
 
 ## 🌐 Connect With Me
 
