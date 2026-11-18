@@ -64,6 +64,7 @@ I enjoy experimenting with technologies, developing applications and understandi
   <img src="https://cdn.simpleicons.org/seaborn" width="45" />
 </p>
 
+
 <h3>🚀 Development & Deployment</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="45" />
@@ -71,6 +72,7 @@ I enjoy experimenting with technologies, developing applications and understandi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" />
 </p>
 
 <h3>🛠️ Tools & Platforms</h3>
