@@ -10,6 +10,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwamirajDeshpande&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 ## 👨‍💻 About Me
 
 I'm **Swamiraj Amod Deshpande**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at **Vishwakarma Institute of Technology, Pune**.
