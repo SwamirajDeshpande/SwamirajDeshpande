@@ -113,7 +113,7 @@ An ML-based product verification system that analyzes product details, pricing p
 
 ## 🏆 Community & Achievements
 
-- Selected as a **Cloud Domain Member** at GDG on Campus, VIT Pune.
+- Selected as a **Cloud Developer** at GDG on Campus, VIT Pune.
 - Completed German Language B2 level at Goethe-Institut / Max Mueller Bhavan, Pune.
 - Recognized as Best Intern of the Month during my Data Science & AI/ML internship at Sumago Infotech.
 - Secured academic recognition during my MSBTE Diploma in Computer Technology.
