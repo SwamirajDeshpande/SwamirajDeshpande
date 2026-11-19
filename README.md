@@ -22,7 +22,7 @@ I'm **Swamiraj Amod Deshpande**, a Computer Science undergraduate specializing i
 I enjoy experimenting with technologies, developing applications and understanding how intelligent systems work.
 
 - 🎓 B.Tech CSE (AI & ML) at VIT Pune
-- ☁️ Cloud Domain Member — GDG on Campus, VIT Pune
+- ☁️ Cloud Developer — GDG on Campus, VIT Pune
 - 🔭 Working on AI/ML, Data Science and software development projects
 - 🌱 Exploring Deep Learning, Computer Vision and Cloud Computing
 - 🤝 Interested in open-source contributions and collaborative projects
