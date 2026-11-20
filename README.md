@@ -14,13 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=SwamirajDeshpande&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<code><img height="60" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="60" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="60" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="60" alt="opencv" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
-<code><img height="60" alt="firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-<code><img height="60" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="60" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
+<code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="50" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="50" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+<code><img height="50" alt="opencv" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
+<code><img height="50" alt="firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="50" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="50" alt="google-cloud" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
 
 ## 👨‍💻 About Me
 
