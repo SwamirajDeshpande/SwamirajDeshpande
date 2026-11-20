@@ -14,6 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=SwamirajDeshpande&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" alt="opencv" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
+<code><img height="20" alt="streamlit" src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 ## 👨‍💻 About Me
 
