@@ -24,11 +24,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **Swamiraj Amod Deshpande**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at **Vishwakarma Institute of Technology, Pune**.
+I'm **Swamiraj Amod Deshpande**, a Second-year Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at **Vishwakarma Institute of Technology, Pune**.
 
 I enjoy experimenting with technologies, developing applications and understanding how intelligent systems work.
 
-- 🎓 B.Tech CSE (AI & ML) at VIT Pune
+- 🎓 Second-year B.Tech CSE (AI & ML) at VIT Pune
 - ☁️ Cloud Developer — GDG on Campus, VIT Pune
 - 🔭 Working on AI/ML, Data Science and software development projects
 - 🌱 Exploring Deep Learning, Computer Vision and Cloud Computing
