@@ -176,7 +176,7 @@ An ML-based product verification system that analyzes product details, pricing p
 
 ### 💡 Code. Learn. Innovate.
 
-*Building today, learning for tomorrow.*
+*Code is not written, but engineered.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=100&section=footer" width="100%" />
 
